@@ -1,0 +1,54 @@
+https://prod.liveshare.vsengsaas.visualstudio.com/join?B3C098D23847D0091679914F4F388D5316A2
+
+Realtime Extension Download Summary
+--------------------
+TOTAL EXTENSIONS : 2
+
+
+
+[x] - EXTENSION: remotehub - INSTALLING
+
+[x] - EXTENSION: remotehub INSTALLED.
+      1 OF 2 INSTALLED
+
+
+[x] - EXTENSION: vsliveshare-pack - INSTALLING
+
+[x] - EXTENSION: vsliveshare-pack INSTALLED.
+      2 OF 2 INSTALLED
+
+CODE SETTINGS SYNC DOWNLOAD SUMMARY
+Version: 3.4.3
+--------------------
+GitHub Token: 3fb2**********
+GitHub Gist: f103fd8691f40a666d863d8f430748ef
+GitHub Gist Type: Secret
+
+Restarting Visual Studio Code may be required to apply color and file icon theme.
+--------------------
+Files Downloaded:
+  extensions.json > extensions.json
+  globalStorage\ms-vsliveshare.vsliveshare-audio\electron-4.2.7\dist\resources\default_app.asar\package.json > globalStorage\ms-vsliveshare.vsliveshare-audio\electron-4.2.7\dist\resources\default_app.asar\package.json
+  globalStorage\ms-vsliveshare.vsliveshare-audio\slimcore-4.0.2019.37.01.4\package.json > globalStorage\ms-vsliveshare.vsliveshare-audio\slimcore-4.0.2019.37.01.4\package.json
+  globalStorage\ms-vsliveshare.vsliveshare\dotnet-3.1.1\shared\Microsoft.NETCore.App\3.1.1\Microsoft.NETCore.App.deps.json > globalStorage\ms-vsliveshare.vsliveshare\dotnet-3.1.1\shared\Microsoft.NETCore.App\3.1.1\Microsoft.NETCore.App.deps.json
+  keybindings.json > keybindingsMac.json
+  settings.json > settings.json
+
+Extensions Ignored:
+  No extensions ignored.
+
+Extensions Removed:
+  vscode-terminal-themes v0.1.0
+  git-diff-and-merge-tool v1.0.1
+  git-cheatsheet v1.1.0
+  vsls-whiteboard v0.0.9
+  git-merger v0.4.1
+  git-rebase-shortcuts v1.0.5
+  spaces v0.1.2
+  vscode-snazzy-theme v0.1.0
+
+Extensions Added:
+  remotehub v0.5.0
+  vsliveshare-pack v0.3.4
+--------------------
+Done.
